@@ -14,21 +14,7 @@ Meu nome é Vitor Lima de Leao, 21 anos, Full Stack Student
 
 ---
 
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
-  
----
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=lucasgdb" alt="Trophies" />
-    </a>
-  </p>
+
 
   ## Algumas Tecnologias
 
