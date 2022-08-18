@@ -1,19 +1,16 @@
-# :man_technologist: Lucas Bittencourt
+# :man_technologist: Vitor Lima de Leao
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/lgdbittencourt)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/93508/lucas-bittencourt)
-[![DEV Badge](https://img.shields.io/badge/-DEV-black?style=for-the-badge&logo=Dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vítor-lima-de-leão-6a4891209/)](https://www.linkedin.com/in/vítor-lima-de-leão-6a4891209/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vitorleaox)](https://twitter.com/vitorleaox)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitorleao144@gmail.com)](mailto:vitorleao144@gmail.com)
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Meu nome é Lucas Bittencourt, 23, Desenvolvedor Full Stack e amante do DevOps!
+Meu nome é Vitor Lima de Leao, 21 anos, Full Stack Student
 
-- :office_worker: Desenvolvedor Full Stack no [**Curso Ênfase**](https://cursoenfase.com.br/)
-- :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
-- :books: Estudando: AWS, Relay & GraphQL
+- :office_worker: Analyst Painel at Garupa
+- :blue_heart: Stack: 
+- :books: Estudando: 
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
