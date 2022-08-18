@@ -6,11 +6,10 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Meu nome é Vitor Lima de Leao, 21 anos, Full Stack Student
+Meu nome é Vitor Lima de Leao, 21 anos, Full Stack Web Developer Student at GrowDev
 
 - :office_worker: Analyst Painel at Garupa
-- :blue_heart: Stack: 
-- :books: Estudando: 
+- :books: Estudando: Front-End
 
 ---
 
