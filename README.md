@@ -12,8 +12,6 @@ Meu nome é Vitor Lima de Leao, 21 anos, Full Stack Student
 - :blue_heart: Stack: 
 - :books: Estudando: 
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
-
 ---
 
 <details>
