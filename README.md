@@ -10,7 +10,7 @@ Meu nome é Vitor Lima de Leao, 21 anos, Full Stack Web Developer Student at Gro
 
 - :office_worker: Analyst Painel at Garupa
 - :books: Estudando: Front-End (HTML-)
-
+- 👾 Gamer
 ---
 
 
